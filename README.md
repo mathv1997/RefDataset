@@ -5,8 +5,8 @@
 * **Bosch Small Traffic Lights Dataset (BSTLD)**: Utilizado como base para o dataset `revel-n3ard`.
     * Fonte original: [University of Heidelberg](https://hci.iwr.uni-heidelberg.de/content/bosch-small-traffic-lights-dataset).
 * **Outros Datasets Roboflow**:
-    * `traffic-light-labelling` (`traffic-light-dataset-mc9w9`).
-    * `traffic-light-cnlh5` (Autor: Moloko).
+    * [traffic-light-labelling](https://universe.roboflow.com/traffic-light-dataset-mc9w9/traffic-light-labelling).
+    * [`traffic-light-cnlh5`](https://universe.roboflow.com/moloko/traffic-light-cnlh5).
 
 ## 2. Imagens de Cenários Reais e Falhas (Notícias)
 
